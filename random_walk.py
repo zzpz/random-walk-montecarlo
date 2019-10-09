@@ -78,7 +78,6 @@ def build_dict_of_walks(num_blocks = 4,max_walk_length = 31, iterations = 1000, 
 
 
 
-
 def main():
 	n_blocks_or_fewer(4,31,1000,0.6)
 
